@@ -1,1 +1,9 @@
 this is kals project.
+this is a structure of conditional statement using python
+
+name ="abena"
+print(name)
+if name =="safoa":
+    print("she is beautiful")
+else:
+    print("ask her")
